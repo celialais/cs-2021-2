@@ -20,3 +20,5 @@ R.: iorpa
 R.: Nenhum.
 15. Você equipamento adequado para a implementação das atividades relacionadas à disciplina?  
 R.: Sim.
+
+Alteração
